@@ -13,6 +13,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TextView textView;
+    // hello nepali guy
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
